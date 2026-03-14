@@ -1,1 +1,0 @@
-# analizer-wydatkow
